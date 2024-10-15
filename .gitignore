@@ -1,4 +1,6 @@
 credentials/*.json
+credentials/best-buy-api-key.txt
 .terraform/
 .terraform.*
 terraform.tfstate*
+python/.venv

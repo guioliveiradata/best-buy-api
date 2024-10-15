@@ -1,0 +1,1 @@
+To learn how to create the service account credential, follow the link: https://developers.google.com/workspace/guides/create-credentials?hl=pt-br#service-account
